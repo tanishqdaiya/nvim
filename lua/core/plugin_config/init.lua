@@ -1,4 +1,3 @@
-require("core.plugin_config.copilot")
 require("core.plugin_config.gruvbox")
 require("core.plugin_config.harpoon")
 require("core.plugin_config.lsp")

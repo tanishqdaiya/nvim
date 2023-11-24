@@ -27,9 +27,9 @@ local plugins = {
 	"theprimeagen/refactoring.nvim", -- setup_status = done
 	"mbbill/undotree", -- setup_status = done
 	"nvim-treesitter/nvim-treesitter-context",
-	"nvim-tree/nvim-web-devicons",
 	"nvim-lualine/lualine.nvim", -- setup_status = done
 
+        -- setup_status = done
         --- Uncomment these if you want to manage LSP servers from neovim
         -- {'williamboman/mason.nvim'},
         -- {'williamboman/mason-lspconfig.nvim'},
