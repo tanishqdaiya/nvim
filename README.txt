@@ -2,17 +2,24 @@ README
 ======
 
 This file contains the following sections
+INTRODUCTION
 STATUS
+
+INTRODUCTION
+------------
+This is tanishqdaiya's neovim configuration, based on the personal preferences
+of tanishqdaiya. These configuration files can serve as an excellent starting
+point or guide for anyone seeking to configure neovim. The philosophy behind
+the design and overall functionality is to keep everything as minimal as
+possible and not making things overwhelming by introducing difficulties. As for
+me, this configuration is also stolen from various people as for all the
+knowledge in this world You are welcome to suggest changes, or to clone the
+repository and embark your own journey. To whoever who reads it, I wish you
+well.
 
 STATUS
 ------
-Currently I am not very happy with the current lsp configuration so I would
-like to fix that and the keybindings for text manipulation and copy-paste must
-be added. I am also thinking of clearing out some bloat packages I have
-installed and not liked one bit. An example of that might be the which-key.nvim
-and netrw.nvim extension. Both of them are bloat and not required for the
-smooth functioning of the editor. Both serve as rather the opposite and does
-not help the developer.
-
-The theme is also not satisfactory, but functional.
+Presently, I am displeased with the existing LSP keybinds and seek to address
+this issue. While the theme functions adequately, it remains unsatisfactory.
+Other previously highlighted problems have been resolved.
 
